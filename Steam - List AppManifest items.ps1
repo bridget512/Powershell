@@ -1,4 +1,4 @@
-﻿Clear-Host
+Clear-Host
 
 Write-Host "Navigate to the steamapps folder"
 Write-Host "E.g. D:\Steam\SteamLibrary\steamapps"
